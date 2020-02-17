@@ -10,7 +10,7 @@
 ## Goals
 
 - try and make it easier for hackathon lovers to find people within the university with similar interests to:
-  * form teams for hackathons
+  * form teams for hackathons - to support this, we provide funding for travel to hackathons within the UK (up to £50)
   * collaborate on side projects 
   * attend hackathon related workshops, talks and challenges
   
@@ -30,5 +30,5 @@ Feel free to e-mail us at hellohackerssoc@gmail.com with any and all issues, dou
 
 -   We are very welcoming to anyone who is even remotely interested to find out more about tech and hackathons. 
 -   Disagreements would be resolved by open discussion and majority voting.
--   Please abide to the [Code of Conduct](https://github.com/helloHackersSociety/Welcome/blob/master/CODE_OF_CONDUCT.md) and live an let live loving and peacefully. 
+-   Please abide to the [Code of Conduct](https://github.com/MLH/mlh-policies/blob/master/code-of-conduct.md) and live an let live loving and peacefully. 
 
