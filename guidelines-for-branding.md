@@ -19,8 +19,8 @@ Some helpful advice on how to preserve consitancy within our brand and our event
 
 ### helloHackers Society
 
-- <span style="color:#000">#fff</span>
-- <span style="color:#000">#000</span>
+- <span style="color:#000">White - #fff</span>
+- <span style="color:#000">Black - #000</span>
 
 ## Logos
 
